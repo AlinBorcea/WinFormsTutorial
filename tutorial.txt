@@ -1,0 +1,23 @@
+Facem un program simplu in Windows forms. Pentru a crea acest proiect urmati pasii din poze
+
+Dupa ce ati creat proiectul trebuie sa schimbam 3 fisiere.
+
+1. Fisierul cu design-ul (adica editorul acela cu widget-uri)
+2. Trebuie adaugat un alt fisier care reprezinta clasa noastra pentru obiectul Contact.
+3. Apasati click dreapta de doua ori pe buton ca sa ajungeti la functia care se apeleaza atunci cand apasati pe buton.
+
+Pentru 1:
+	Pe partea dreapta sau stanga a lui Visual Studio aveti o coloana care contine textul Toolbox. Daca nu o vedeti dati click pe View in partea de sus si alegeti Toolbox
+	In toolbox va alegeti widget-urile (button, textbox, label, etc.) si faceti drag and drop pe fereastra alba care arata a aplicatie Windows 7.
+	Dupa drag and drop faceti click dreapta pe primul textbox si alegeti properties. Acolo aveti o gramada de proprietati. Schimbati proprietatea Name cu nameTextBox.
+	nameTextBox este numele variabilei pe care o vom folosi in cod pentru a accesa textul introdus de utilizator in primul textbox.
+	Faceti la fel si pentru al doilea textbox. Ii dati numele phoneNumberTextBox.
+	Si pentru buton este indicat sa faceti la fel. Pentru a schimba textul care apare pe buton modificati proprietatea Text nu Name!
+
+Pentru 2:
+	In solution explorer (Daca nu il vedeti dati pe view si il selectati; a treia optiune) aveti un dreptunghi cu numele proiectului cu un patrat care contine C#. Click dreapta-> add new item si alegeti
+	class. Ii dati numele Contact. Si scrieti asta: 
+
+Pentru 3:
+	^
+	|
