@@ -4,7 +4,9 @@ Dupa ce ati creat proiectul trebuie sa schimbam 3 fisiere.
 
 1. Fisierul cu design-ul (adica editorul acela cu widget-uri)
 2. Trebuie adaugat un alt fisier care reprezinta clasa noastra pentru obiectul Contact.
+link: https://github.com/AlinBorcea/WinFormsTutorial/blob/master/Agenda/Contact.cs
 3. Apasati click dreapta de doua ori pe buton ca sa ajungeti la functia care se apeleaza atunci cand apasati pe buton.
+link: https://github.com/AlinBorcea/WinFormsTutorial/blob/master/Agenda/Form1.cs
 
 Pentru 1:
 	Pe partea dreapta sau stanga a lui Visual Studio aveti o coloana care contine textul Toolbox. Daca nu o vedeti dati click pe View in partea de sus si alegeti Toolbox
